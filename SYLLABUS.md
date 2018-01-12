@@ -13,7 +13,7 @@ We expect students to have have completed [TODO _insert CSCI 49900 prereqs here_
 * Jesse Greenberg (jgreenberg at appnexus dot com)
 * Sabeena Lalwani (slalwani at appnexus dot com)
 * Sean Laude (slaude at appnexus dot com)
-* James Lin (jamesline at appnexus dot com)
+* James Lin (jameslin at appnexus dot com)
 * Sid Wighe (swighe at appnexus dot com)
 
 ### Course Outline
