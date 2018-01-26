@@ -1,7 +1,7 @@
 
 # Course Project Deliverables
 
-This is an outline of the deliverables you will complete over the course of the. In the interests of simulating the experience of working in industry, we prefer to call these _deliverables_ rather than _assignments_. These will be a mixture of presentations, written documentation, code artifacts, and/or actual running programs. 
+This is an outline of the deliverables you will complete over the course of the class. In the interests of simulating the experience of working in industry, we prefer to call these _deliverables_ rather than _assignments_. These will be a mixture of presentations, written documentation, code artifacts, and/or actual running programs. 
 
 For listing of dates and how these line up with topics, refer to the [syllabus](SYLLABUS.md).
 
