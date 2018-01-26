@@ -8,7 +8,7 @@ This curriculum is developed by [AppNexus](https://www.appnexus.com/en) as part 
 
 ### Artifacts
 
-Please see the current [syllabus](syllabus.md) for course-specific information and up-to-date schedule
+Please see the current [syllabus](SYLLABUS.md) for course-specific information and up-to-date schedule
 
 ### Prerequisites
 
@@ -18,42 +18,13 @@ We expect student to have a working knowledge of [git](https://git-scm.com/) and
 
 The topics to be covered are as follows:
 
-#### Agile Methodology
-
-Being able to collaborate with a team and plan your work needs a framework. Here we introduce a model of agile development using Github, a popular, widely available application for development using git.
-
-#### Product Thinking
-
-Product thinking is the ability to solve a specific problem for a specific audience.
-
-#### Testing Thinking
-
-Testing thinking is crucial to making your software stable and useable and better understanding what you are attempting to write
-
-#### Design & UX Thinking
-
-Making your application or system usable 
-
-#### UI Systems
-
-Everthing you need to know about front-end systems.
-
-#### Database Systems
-
-Everything you need to know about putting your data somewhere.
-
-#### Back-end Systems
-
-How do you bridge together your data and your user interface?
-
-#### Testing Methodologies
-
-Actually testing things
-
-#### Security Thinking
-
-Operational security and system controls are vitally important to safeguard your data and identity
-
-#### Productionalization
-
-How do you make your product scale? Here we will define how to deploy your code widely without degrading your users' experience.
+*  Agile Methodology
+*  Product Thinking
+*  Testing Thinking
+*  Design & UX Thinking
+*  UI Systems
+*  Database Systems
+*  Back-end Systems
+*  Testing Methodologies
+*  Security Thinking & IT Controls
+*  Productionalization

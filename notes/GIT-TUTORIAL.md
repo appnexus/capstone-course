@@ -51,3 +51,5 @@ Git is "distributed" because your repos exist on your computer _and_ in the clou
 ### [Github Hello World](https://guides.github.com/activities/hello-world/)
 
 ### [Git Workflows Compared](https://www.atlassian.com/git/tutorials/comparing-workflows)
+
+### Obligatory XKCD Cartoons About Git [1](https://xkcd.com/1597/) [2](https://xkcd.com/1296/)
