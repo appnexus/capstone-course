@@ -1,24 +1,31 @@
 
-_This is draft version of the final syllabus_
+_The contents of this syllabus are subject to change._
 
 # CSCI 49900 Advanced Applications: A Capstone Course for CSCI Majors (Spring 2018)
 
 ## Prerequisites
 
-Students should also have a working knowledge of [git](https://git-scm.com/) and understand the mechanics of a [distributed version control](https://en.wikipedia.org/wiki/Distributed_version_control) system in order to contribute to the project deliverables.
+In additon to the course requirements for the CSCI major, students should also have a working knowledge of [git](https://git-scm.com/) and understand the mechanics of a [distributed version control](https://en.wikipedia.org/wiki/Distributed_version_control) system in order to contribute to the project deliverables.
 
-For more resources on git, see this [page](/notes/GIT-TUTORIAL.md).
+If you need to get up to speed on git, see this [page](/notes/GIT-TUTORIAL.md) for resources.
 
-## Adjunct lecturers
+## Adjunct Lecturers
+
+### Section A - 1:10p - 3p
 
 * Alejandro Gonzalez Sole (agonzalez at jagssoft dot com)
 * Jesse Greenberg (jgreenberg at appnexus dot com)
+* James Lin (jameslin at appnexus dot com)
+
+### Section B - 2:10p - 4p
+
 * Sabeena Lalwani (slalwani at appnexus dot com)
 * Sean Laude (slaude at appnexus dot com)
-* James Lin (jameslin at appnexus dot com)
 * Sid Wighe (swighe at appnexus dot com)
 
 ## Course Calendar
+
+The adjunct lecturers will give a talk on a particular topic on Tuesdays each week. The project deliverables due each Friday follow the sequence of topics, so we ask for your active attention and engagement in lectures. For details on each project deliverable, see this [page](DELIVERABLES.md).
 
 ### Week 1: Jan 30 - Feb 2
 * **Topic**: Agile Methodologies and Github
@@ -90,7 +97,7 @@ _There will be no class during Spring Break, Apr 3 - Apr 6_
 ### Week 12: Apr 24 - Apr 27
 * **Topic**: _TBD_
 * **Objective**: We will be using this week to cover any additional topics that are pertinent to the class, depending on students' progress on their projects.
-* **Deliverables**: MVP Demos
+* **Deliverables**: MVP Demo
 
 ### Week 13: May 1 - May 4
 * **Topic**: Production Issues and Scale Thinking
@@ -104,4 +111,4 @@ _There will be no class during Spring Break, Apr 3 - Apr 6_
 
 
 ### Week 16: May 15 - May 18 and Week 17: May 22
-* **Deliverables**: Final Demos
+* **Deliverables**: Final Demo
