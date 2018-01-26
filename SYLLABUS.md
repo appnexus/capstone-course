@@ -5,7 +5,9 @@ _This is draft version of the final syllabus_
 
 ## Prerequisites
 
-We expect students to have have completed [TODO _insert CSCI 49900 prereqs here_]. Students should also have a working knowledge of [git](https://git-scm.com/) and understand the mechanics of a [distributed version control](https://en.wikipedia.org/wiki/Distributed_version_control) system.
+Students should also have a working knowledge of [git](https://git-scm.com/) and understand the mechanics of a [distributed version control](https://en.wikipedia.org/wiki/Distributed_version_control) system in order to contribute to the project deliverables.
+
+For more resources on git, see this [page](/notes/GIT-TUTORIAL.md).
 
 ## Adjunct lecturers
 
