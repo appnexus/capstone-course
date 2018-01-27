@@ -1,6 +1,8 @@
-# SDLC 
-## SLDC models: Waterfall vs Agile
-### Waterfull model  
+# Software Development Life Cycle (SDLC)
+* Software development life cycle is the process by which we define, produce and maintain softare. 
+	* At their core, all models gather requirements -> produce product -> test the product meets the requirements. 
+## Models: Waterfall vs Agile
+### Waterfall  
 * Phases
     1. Requirements
     2. Design 
@@ -11,11 +13,10 @@
 	* "one should move to a phase only when its preceding phase is reviewed and verified" 
 * Pros 
 	* Model places significant focus on requirements and documentation
-	* Designed to catch issues as early as possible (see cost of a bug)
+	* Designed to catch issues as early as possible ([see cost of a defect](#Sources))
 	* Easy to identify milestones
 * Cons
 	* It is difficult to know all of the requirements when a project begins
-	* It is difficult to see how a project will evolve
 ### Agile model  
 * "We are uncovering better ways of developing software by doing it and helping others do it."
 * Pillars of Agile
@@ -26,17 +27,17 @@
 * There are many different implementations of the agile manifesto 
 	* Scrum and Kanban are currently very popular
 ### Scrum
-* Framework for managing work following the principals from the Agile Manfiesto
+* Framework for managing work following the principales from the [Agile Manfiesto](#Sources)
 * Scrum comes as a set of guidelines to be shaped to meet a team's specific needs
 	* Each teams practices evolve through sprint retros 
 	* Each team's scrum is unique
-* Sprints/stories/epics/spikes
+* Terminology
 	* Sprint - timeboxed iterations for work
 		* For the class, we are proposing a 1 week sprint
 	* Stories - A unit of work that provides value to
 	* Epics - A collection of stories packed together to deliver a feature
 	* Spikes - A unit of engineering research that does not deliver direct value. Typically ends with creating stories
-* 4 important meetings
+* 4 Ceremonies
 	1. Daily scrum (standup) - daily work update
 		1. Format for update "yesterday I did A, B, and C. Today I plan to do D, E, and F. I am blocked on X,  and Person B is working to resolve it"
 	2. Sprint planning - Meeting to select what work the team will complete in the current sprint
@@ -45,10 +46,12 @@
 	4. Retrospective - Reflect on previous sprint, modify team's process to improve productivity. 
 		1.(opinion) most teams fail to properly use retro to solve their own problems.
 * [Sample project](https://github.com/jmgreenberg/Huntergram-ui)
-## Note
+## Sources
+* [SDLC](https://en.wikipedia.org/wiki/Software_development_process)
 * [Official Scrum Guide](http://www.scrumguides.org/scrum-guide.html#team-po)
 * [Wikipedia - waterfall](https://en.wikipedia.org/wiki/Waterfall_model)
-* [Cost of a bug](http://blog.celerity.com/the-true-cost-of-a-software-bug)
-	* find additional sources 
+* [Cost of a defect](http://blog.celerity.com/the-true-cost-of-a-software-bug)
+	* [support](http://istqbexamcertification.com/what-is-the-cost-of-defects-in-software-testing/)
+	* [Counterpoint](http://thklein.com/en_US/cost-of-defect/)
 * [Wikipedia - agile](https://en.wikipedia.org/wiki/Agile_software_development)
 * [Agile Manifesto](http://agilemanifesto.org/)
