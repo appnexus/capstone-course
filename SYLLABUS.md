@@ -31,7 +31,7 @@ The adjunct lecturers will give a talk on a particular topic on Tuesdays each we
 * **Topic**: Agile Methodologies and Github
 * **Objective**: Understand a framework for collaboration with a team and use Github to achieve this model of agile development
 * **Deliverables**:  Individual Project Pitches
-* **[Notes](/notes/AGILE.md)**
+* **[Notes](/notes/SDLC.md)**
 
 ### Week 2: Feb 6 - Feb 9
 * **Topic**: Product Thinking
