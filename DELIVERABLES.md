@@ -17,6 +17,10 @@ Students will come up with ideas for projects and present them to the class.
 > I would like to make Instragram for dinosaurs, e.g. _Dinogram_. This will be a mobile app that runs COBOL on the backend. I think this is useful because dinosaurs need a social media presence.
 ### Team Product Proposals
 Teams will be formed and their product proposals will be presented to the class
+#### Requirements
+* Must be a novel idea or team member's adaptation from the individual project pitches
+* Adhere to the product definition section [Product Thinking](https://github.com/appnexus/capstone-course/blob/master/notes/PRODUCT.md) defining the target audience, problem, vision, strategy and goals.
+* Some description of how it will be made, the technologies used, etc.
 ### User Stories
 Project teams will write out their user stories and have them entered into the issue tracking system.
 ### UX storyboards and wireframes
