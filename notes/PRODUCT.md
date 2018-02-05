@@ -39,22 +39,19 @@ What features will this manifest as? What will we do to reach our goals?
 Locals looking for things to do
 
 ### Problem
-Often do I see myself looking up for things to do, sometimes I don't know what I want or what's going on around, have too many specialized apps/sources instead of a single source which be overwhelming to go through.
+Often do I see myself looking up for things to do, not knowing know what I want or what's going on around. There are many specialized apps/sources for food, events etc. instead of a single source which be overwhelming to go through to plan my day or week.
 
-Lack of a unified source for local:
-1. Recommendations for things to do across diverse domains
-2. Unified experience across different aspects
-3. Personalized to your taste
+In summary, there is a lack of a unified platform for local area recommendations for things to do, that gives the user a unified experience, personalized to his/her taste
 
 ### Vision
 One stop personalized recommendation engine for local events and things to do
 
 ### Strategy
-How do we plan to plan, build, monetize etc. Vision and strategic thinking (UX) are a must for a successful product.
+How do we plan to build, monetize etc. Vision and strategic thinking (UX) are a must for a successful product.
 Includes the following: 
 1. What form will this be available to the user? An app, personal assistant in the form of say Alexa/robot etc.
 2. Sample approach: (top down): Defining Product vision, goals, defining roadmap in order.
-3. How will you on board new users, how will you get the access to various data sources/feeds etc.
+3. How will you onboard new users, how will you get the access to various data sources/feeds etc.?
 4. When and how will you monetize? Will the app be free at first?
 The list goes on. However, this some parts of this are out of scope of this discussion.
 
@@ -63,8 +60,9 @@ Coming up with product goals is the step that helps you translate your product s
 1. Personalization: A recommendation engine personalized to your hobbies, interests, recent activities, spending patterns etc.
 2. Social Media: Leverage the power of social media to enhance your experience
 3. Monetization: Either through ads, a revshare of the local deals, restaurant recommendations etc.
-4. Secure: Means for authorization, authentication, secure access over say https etc.
-5. Plan, organize my schedule: Ability to subscribe to events, plan my activies, manage my calendar, setup alerts/reminders etc.
+4. Security: Means for authorization, authentication, secure access over say https etc.
+5. Plan, organize my schedule: Ability to subscribe to events, plan my activies, manage my calendar, setup alerts/reminders etc.<br>
+...
 
 ### Features
 Product features are specific means to achieving the goals you have set out. A goal usually has many features, but a feature delivery may attribute success in achieving a multiple goals. 
