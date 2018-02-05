@@ -51,7 +51,6 @@
 * [Official Scrum Guide](http://www.scrumguides.org/scrum-guide.html#team-po)
 * [Wikipedia - waterfall](https://en.wikipedia.org/wiki/Waterfall_model)
 * [Cost of a defect](http://blog.celerity.com/the-true-cost-of-a-software-bug)
-	* [support](http://istqbexamcertification.com/what-is-the-cost-of-defects-in-software-testing/)
 	* [Counterpoint](http://thklein.com/en_US/cost-of-defect/)
 * [Wikipedia - agile](https://en.wikipedia.org/wiki/Agile_software_development)
 * [Agile Manifesto](http://agilemanifesto.org/)
