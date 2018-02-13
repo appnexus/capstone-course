@@ -25,4 +25,4 @@ Design thinking can be summarized with the question: _"how do I empower users to
 
 ### [_A Virtual Crash Course in Design Thinking_ - Stanford University](https://dschool.stanford.edu/resources-collections/a-virtual-crash-course-in-design-thinking)
 
-### [Link about personas](url to link about personas)
+### [How to Create UX Personas](https://uxmastery.com/create-ux-personas/)
