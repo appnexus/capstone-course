@@ -7,9 +7,11 @@ Design thinking can be summarized with the question: _"how do I empower users to
 ## Questions for inquiry
 
 * What is a 'user experience'?
+** ["an ideology supported by an accompanying process"](https://www.nngroup.com/articles/design-thinking/)
 * What is 'usability'?
-	* What does it mean for a system or application to be usable?
+	* What does it mean for a system or application to be [usable](https://www.nngroup.com/articles/usability-101-introduction-to-usability/)?
 	* What makes something _not_ usable?
+	* [What makes something frustrating to the user?](https://uxdesign.cc/if-satan-was-a-web-designer-dc5cdf06dff9)
 * What are methods to uncover 'usability'?
 * How do we know how our users will perform using our application or system?
 
@@ -22,3 +24,5 @@ Design thinking can be summarized with the question: _"how do I empower users to
 ### [_Design Thinking Comes of Age_ - Harvard Business Review](https://hbr.org/2015/09/design-thinking-comes-of-age)
 
 ### [_A Virtual Crash Course in Design Thinking_ - Stanford University](https://dschool.stanford.edu/resources-collections/a-virtual-crash-course-in-design-thinking)
+
+### [Link about personas](url to link about personas)
