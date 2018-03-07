@@ -54,7 +54,6 @@ The adjunct lecturers will give a talk on a particular topic on Tuesdays each we
 ### Week 5: Feb 27 - Mar 2
 * **Topic**: Testing Thinking & Test Driven Development
 * **Objective**: Explain how testing is foundational to the software development lifecycle. Understand the benefits of testing activities and highlight the costs of lax testing
-* **Deliverables**: _TBD_
 * **[Notes](/notes/TESTING.md)**
 
 ### Week 6: Mar 6 - Mar 9
