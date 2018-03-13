@@ -1,13 +1,13 @@
 # Back-end Systems
 
-This section adpated from Reference 1.
+This section adapted from Reference 1.
 
 In software engineering, the terms front end and back end refer to the separation of concerns between the presentation layer (front end), and the data access layer (back end) of a piece of software, or the physical infrastructure or hardware. In the client–server model, the client is usually considered the front end and the server is usually considered the back end, even when some presentation work is actually done on the server.
 
 ## Difference between front-end and back-end systems
 Front-end systems interface with the user via a browser or an application. Some popular web technologies include HTML, CSS, and JavaScript, many frameworks like Bootstrap and Angular, as well as JavaScript libraries like jQuery, and CSS extensions like Sass and LESS.
 
-This section adpated from Reference 2.
+This section adapted from Reference 2.
 
 Typically, back-end systems run server side, and receive and respond to front-end requests. This can be as simple as a static resource, or something like big data processes or restful API's that interface with data stores before returning the computed result. Some examples for back-end languages include Ruby, PHP, Java, C#, Python etc. with lots of supported frameworks like Django for Python, Spring for Java, NodeJs, Symphony for Php etc.
 
@@ -32,7 +32,7 @@ A RESTful API is an application program interface (API) that uses HTTP requests 
 * Data format for exchange: Eg. JSON, XML, protobuf etc.
 * Methods: Most common methods include GET, PUT, POST, DELETE with HTTP, other methods exist for CRUD operations.
 
-This section adpated from Reference 3.
+This section adapted from Reference 3.
 
 REST has gained popularity due to reasons like:
 * Much simpler, lightweight, and doesn't require separate client-server programs like SOAP
