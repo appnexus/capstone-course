@@ -5,7 +5,7 @@ Simply put, back-end systems cover aspects of development that don't involve any
 ## Difference between front-end and back-end systems
 Front-end systems interface with the user via a browser or an application. Some popular web technologies include HTML, CSS, and JavaScript, many frameworks like Bootstrap and Angular, as well as JavaScript libraries like jQuery, and CSS extensions like Sass and LESS.
 
-Typically, back-end systems run on the server side and serve front-end requests. This can be as simple as a static resource, or something like big data processes or restful API's that interface with data stores before returning the computed result. Some examples for back-end languages include Ruby, PHP, Java, C#, Python etc. with lots of supported frameworks like Django for Python, Sprint for Java, NodeJs, Symphony for Php etc.
+Typically, back-end systems run on the server side and serve front-end requests. This can be as simple as a static resource, or something like big data processes or restful API's that interface with data stores before returning the computed result. Some examples for back-end languages include Ruby, PHP, Java, C#, Python etc. with lots of supported frameworks like Django for Python, Spring for Java, NodeJs, Symphony for Php etc.
 
 ## API's and REST
 ### API
