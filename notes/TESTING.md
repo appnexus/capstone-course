@@ -41,7 +41,7 @@
 |---|---|---|---|
 |Unit Tests|Function or Class|xUnit|Given the list [1, 0, -1]<br><br>When I run the sort() function<br><br>Then the output should be [-1, 0, 1]|
 |Integration Tests|An "Assembled Component" (e.g. single application or program)|xUnit, Selenium|Given the Huntergram API and a mock DB of users and passwords (including `user123` and `pass123`)<br><br>When I HTTP POST to /auth service with `{"username":"user123", "password":"pass123"}`<br><br>Then I should receive a `200 OK` and my session token in `Set-Cookie`|
-|System Tests|Multiple applications working together|Selenium|Given the Huntergram API and a mock DB of users and passwords (including `user123` and `pass123`)<br><br>When I enter `user123` as username and `pass123` as password and click `login`<br><br>Then I should see my home page|
+|System Tests|Multiple applications working together|Selenium|Given the Huntergram mobile app, API, and DB with users and passwords (including `user123` and `pass123`)<br><br>When I enter `user123` as username and `pass123` as password and click `login` on the mobile app<br><br>Then I should see my home page|
 
 ### Concepts to Keep in Mind
 * Minimize dependencies for whatever you are testing
@@ -59,7 +59,7 @@
    * Whenever you finish debugging a bug, immediately write and add a test that would catch it.
    * Whenever you make a change to your code, run all the tests that have been written thus far. You (and your whole team) should never hit the same bug again!
 
-## When does on test? Why test? (part 2)
+## When does one test? Why test? (part 2)
 * Before and During Development (Test Driven Development, a.k.a. TDD)
   * ex: When writing a new class, define all your functions first and have them return a valid default / dummy response. Then write out all of your test cases. Once finished, your tests should all run and all fail. Then, as you actually develop your code, the tests should slowly start to pass. If you have written your tests in alignment with your story's Acceptance Criteria, then you should be functionally complete once all the tests pass!
   * Benefits
