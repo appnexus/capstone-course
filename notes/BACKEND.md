@@ -1,23 +1,22 @@
 # Back-end Systems
 
-Simply put, backend systems cover aspects of development that doesn't involve any kind of user interface. This includes API's, scripts, libraries etc. that don't have a user interface, but run on the server side and provide a unified view to one or many consumers.
+Simply put, back-end systems cover aspects of development that don't involve any kind of user interface. This includes API's, scripts, libraries etc. that don't have a user interface, but run on the server side and provide a unified view to one or many consumers.
 
-## Difference between frontend and backend systems
-Frontend systems interface with the user via a browser or an application. Some popular web technologies include HTML, CSS, and JavaScript, numerous frameworks like Bootstrap and Angular, as well as JavaScript libraries like jQuery, and CSS extensions like Sass and LESS.
+## Difference between front-end and back-end systems
+Front-end systems interface with the user via a browser or an application. Some popular web technologies include HTML, CSS, and JavaScript, many frameworks like Bootstrap and Angular, as well as JavaScript libraries like jQuery, and CSS extensions like Sass and LESS.
 
-Typically, backend systems interface run server side and serve frontend requests. This can be as simple as a static resource, or something like big data processes or restful API's that interface with data stores before returning the computed result. Some examples for backend languages include Ruby, PHP, Java, C#, Python etc. with lots of supported frameworks like Django for Python, Sprint for Java, NodeJs, Symphony for Php etc.
+Typically, back-end systems run on the server side and serve front-end requests. This can be as simple as a static resource, or something like big data processes or restful API's that interface with data stores before returning the computed result. Some examples for back-end languages include Ruby, PHP, Java, C#, Python etc. with lots of supported frameworks like Django for Python, Sprint for Java, NodeJs, Symphony for Php etc.
 
 ## API's and REST
 ### API
-An API is an application programming interface that abstracts the backend details and executes business logic to represent information to the user in a consistent manner. API's help achieve the following:
+An API is an application programming interface that abstracts the back-end details and executes business logic to represent information to the user in a consistent manner. API's help achieve the following:
 * Provide a defined interface for requests and responses to the caller
-* Abstract business logic and backend layer (eg. databases, resources) from the caller. You can change anything without the caller knowing.
-* Security in the form of authentication, authorization, and preventing attacks like DOS via mechanisms like throttling etc.
-* Validation layer before requests hit the backend
-* Abstract the frontend user facing interface/model from the data access layer model
-* Provide a single, uniform layer/experience to all users of the system with one time coding in one place
+* Abstract business logic and back-end layer (eg. databases, resources) from the caller. You can change anything without the caller knowing.
+* Security in the form of authentication, authorization, and preventing attacks like DOS via mechanisms like throttling.
+* Validation layer before requests hit the back-end
+* Abstract the front-end user facing interface/model from the data access layer model
+* Provide a single, uniform layer/experience to all users of the system with one-time coding in one place
 * Provide mechanisms for caching or speed up
-
 ### RESTful API
 A RESTful API is an application program interface (API) that uses HTTP requests to GET, PUT, POST and DELETE data. REST stands for "representational state transfer". It is an architectural style and approach to communications often used in web services development. Components of a REST API are:
 * URI: Uniform Resource Identifier
