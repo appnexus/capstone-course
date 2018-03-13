@@ -22,6 +22,7 @@ An API is an application programming interface that abstracts the back-end detai
 * Abstract the front-end user facing interface/model from the data access layer model
 * Provide a single, uniform layer/experience to all users of the system with one-time coding in one place
 * Provide mechanisms for caching or speed up
+
 Eg. A credit card payment transaction using an API shall ensure validation of credit card details, whether there is enough balance in the account, fraud checks if any, make the request to the backend (say database) and update the transaction and respond with the result in one single operation. The API abstracts database details from the caller of the API which would be impossible to achieve otherwise.
 
 ### RESTful API
@@ -43,6 +44,7 @@ Other protocols exist like SOAP (Simple Object Access Protocol) which is more he
 ## Other examples of backend technologies
 * Big data processing in the background applying business logic, mapping and aggregating data into meaningful streams
 * Offline ETL's/scripts performing some business function.
+
 Eg. big data streaming or MR jobs that gather information about various auction level impressions in adtech industry and combine them with user events like views and clicks for attribution, offline web scraping and indexing of keywords and attributes for web pages by search engines, ETL's that pull data from various data sources into a data lake or warehouse for reporting and querying etc.
 
 ## References
