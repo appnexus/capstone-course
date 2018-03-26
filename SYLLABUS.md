@@ -83,7 +83,7 @@ The adjunct lecturers will give a talk on a particular topic on Tuesdays each we
 _There will be no class during Spring Break, Apr 3 - Apr 6_
 
 ### Week 10: Apr 10 - Apr 13
-* **Topic**: Security/IT Controls Thinking
+* **Topic**: Security/IT Controls Thinking - Session 1
 * **Objective**: Articulate the importance of security and IT Controls. Effective IT Controls illustrate the ability to have reliance on software systems and society as a whole.
 * **Deliverables**: Data-driven Prototype
 * **[Notes](/notes/SECURITY-IT-CONTROLS.md)**
@@ -95,7 +95,7 @@ _There will be no class during Spring Break, Apr 3 - Apr 6_
 * **[Notes](/notes/TEST-METHODS.md)**
 
 ### Week 12: Apr 24 - Apr 27
-* **Topic**: _TBD_
+* **Topic**: Security/IT Controls Thinking - Session 2
 * **Objective**: We will be using this week to cover any additional topics that are pertinent to the class, depending on students' progress on their projects.
 * **Deliverables**: MVP Demo
 
