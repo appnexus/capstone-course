@@ -49,3 +49,4 @@
 ## Resources
 
 ### [Upwork (SQL vs NoSQL Databases)](https://www.upwork.com/hiring/data/sql-vs-nosql-databases-whats-the-difference/)
+### [Visual guide to DBs)](http://blog.nahurst.com/visual-guide-to-nosql-systems)
