@@ -9,9 +9,16 @@
 * How frequently and how drastically will the structure of my data change as my product grows?
 
 ## Case Studies
-* TODO: some example where relational DB is clear favorite
-* TODO: some example where NoSQL DB is clear favorite
-
+* When to use relational DB?
+	* Webapps / Websites -  MySQL are the most common versatile dbs good for most projects that involve data storing and querying on the web
+	* Embedded Devices - SQLite is great for isolated environments, stores everything in a single file and keeps indexes in memory
+	* Analytics - Vertica is one of many databases designed to store large amounts of data with ability to create custom queries. 
+* When to use NoSQL DB?
+	* Rapid Prototyping - Mongo DB is great for updating schema as project evolves
+	* Offline/Online Synching - Pouch DB with Couch DB offers an excellent low-conflict solution for offline implementations
+	* Key-Value Store - Redis is super fast and efficient at storing key-value data in-memory for fast performance and quick lookup
+	* Large Column & High Performance - Cassandra is great for large column data sets and peforms incredibly fast 
+	
 ## Relational Databases
 * Pros
 	* Structured
