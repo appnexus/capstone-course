@@ -81,23 +81,23 @@ _There will be no class during Spring Break, Apr 3 - Apr 6_
 * **[Notes](/notes/SECURITY-IT-CONTROLS.md)**
 
 ### Week 11: Apr 17 - Apr 20
-* **Topic**: Testing Methodologies
-* **Objective**: Overview of testing methods and their applicability to all parts and the whole of software-based systems
+* **Topic**: Presentations and Group Work
 * **Deliverables**: Data-driven Prototype (Jesse, James, Felix section only) and Presentation
-* **[Notes](/notes/TEST-METHODS.md)**
 
 ### Week 12: Apr 24 - Apr 27
-* **Topic**: Security/IT Controls Thinking - Session 2
-* **Objective**: We will be using this week to cover any additional topics that are pertinent to the class, depending on students' progress on their projects.
+* **Topic**: Group Work
 
 ### Week 13: May 1 - May 4
-* **Topic**: Production Issues and Scale Thinking
-* **Objective**: Focus on on scalability and issues encountered when deploying software systems in the real world
+* **Topic**: Deploying to Production and Check Ins
+* **Objective**: Focus on issues encountered when deploying software systems and a brief how-to
 * **[Notes](/notes/PRODUCTION.md)**
 
 ### Week 14: May 8 - May 11
-* _Students will use this week to complete their final projects_
-* **Deliverables**: _TBD_
+* **Topic**: Group Work
+
+### Week 15: May 15 - May 18
+* **Topic**: Group Work
+* **Deliverables**: Final Demo (if you cannot present on 5/22)
 
 ### Week 15: May 15 - May 18 and Week 16: May 22
 * **Deliverables**: Final Demo
